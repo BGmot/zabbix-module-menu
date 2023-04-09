@@ -9,6 +9,10 @@ use CProfile;
 
 class CControllerBGMenuProfileUpdate extends CControllerProfileUpdate {
 
+	protected function init(): void {
+		$this->disableCsrfValidation();
+	}
+
 	protected function checkInput() {
 		$fields = [
 			'idx' =>		'required|string',

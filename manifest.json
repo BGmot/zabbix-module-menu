@@ -1,10 +1,10 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"id": "menu",
 	"name": "No automatic main menu sections expand/collaps",
 	"author": "Evgeny Yurchenko",
 	"description": "Stops sections in main menu to automatically collapse when one section is expanded.",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"namespace": "BGMenu",
 	"url": "https://github.com/BGmot/zabbix-module-menu",
 	"actions": {
