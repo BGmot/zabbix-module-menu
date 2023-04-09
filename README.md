@@ -7,6 +7,12 @@ A module to prevent automatic main menu items collapsing effectively to allow yo
 ![screenshot](screenshots/bg-menu.png)
 
 # How to use
+IMPORTANT: pick module version according to Zabbix version:
+| Module version | Zabbix version |
+|:--------------:|:--------------:|
+|     v1.0.0     |   < 6.4        |
+|     v2.0.0     |     6.4        |
+
 1.a. Create a folder in your Zabbix server modules folder (by default /usr/share/zabbix/modules) and copy contents of this repository into that folder.
 
 *** OR ***
