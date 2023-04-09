@@ -1,5 +1,5 @@
 # zabbix-module-menu
-Written according to Zabbix official documentation [<https://www.zabbix.com/documentation/current/manual/modules>](https://www.zabbix.com/documentation/current/en/devel/modules/file_structure)
+Written according to Zabbix official documentation [Modules](https://www.zabbix.com/documentation/current/en/devel/modules/file_structure)
 
 A module to prevent automatic main menu items collapsing effectively to allow you to keep several main menu sections expanded.
 
